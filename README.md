@@ -15,9 +15,12 @@ Este proyecto integra tecnologías obsoletas con herramientas modernas como **Py
 ## Requisitos del sistema  
 - **Python 3.8+**  
 - Librerías necesarias:  
-  - `numpy`  
-  - `sounddevice`  
-  - `matplotlib`  
+  - `numpy`
+  - `time`
+  - `threading`   
+  - `sounddevice`
+  - `xml.etree.ElementTree` 
+  - `keyboard`  
   - `mido`  
 
 ## Instalación  
