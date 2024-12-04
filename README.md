@@ -33,8 +33,6 @@ Este proyecto integra tecnologías obsoletas con herramientas modernas como **Py
 Este proyecto fue desarrollado por Daniel Ortega Domínguez como parte de su Trabajo Fin de Grado en la Universidad Politécnica de Madrid (UPM).
 Agradecimientos especiales a mi tutor Yago Torroja Fungairiño por su apoyo y guía durante este proceso.
 
----
-
 ## Contribuciones
 ¡Todas las contribuciones son bienvenidas! Si tienes ideas para mejorar el proyecto o encontrar algún problema, no dudes en abrir un issue o enviar un pull request.
 
